@@ -1,2 +1,3 @@
 # Verilog_Implementation
-These is a quick start guide on learning Verilog using Vivado.
+Afew implementations in verilog
+
